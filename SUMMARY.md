@@ -4,6 +4,11 @@
 * [Knowledge Management](testing-digital-garden/README.md)
   * [🌱 Digital Gardens](testing-digital-garden/index.md)
 
-## Group 1
+## 🤖 Tech, AI & Ethics
 
-* [Robots, AI, & Rights](group-1/robots-ai-and-rights.md)
+* [Robots, AI, & Rights](tech-ai-and-ethics/robots-ai-and-rights.md)
+* [On Twitter & Immigration](tech-ai-and-ethics/on-twitter-and-immigration.md)
+
+***
+
+* [Page 1](page-1.md)
